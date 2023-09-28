@@ -8,30 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-6 years work experience in conducting research in AI based image processing technology and applications in university. Aspires to obtain a programmer, technician or an engineer position. [Linkedin](https://www.linkedin.com/in/bozhiliu85)[Github](https://bozhiliu85.github.io)
+6 years work experience in conducting research in AI based image processing technology and applications in university. Aspires to obtain a programmer, technician or an engineer position. 
 
-A data-driven personal website
+I am a deep learning researcher with a focus on Machine learning based high dynamic range imaging technology and its applications. My goal is to create more realistic and controllable generated images through the use of these techniques. I received my Ph.D. from the University of Nottingham in 2018, and my master’s from Nottingham as well in 2010, and bachelor’s degrees from Nanjing University of Science and Technology (Nanjing) in 2008, respectively. I was born in the beautiful city of Tianjin, China.
+
+Programming
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My programming journey began in 2004 with C++, which fostered my programming thinking and skills. Throughout my PhD, I primarily used Matlab for scientific programming, and as the era of deep learning emerged, I transitioned to predominantly using Python. Additionally, I have experience with Java, SQL, QT, and Perl due to my participation in various relevant projects. My role as the administrator of our group website in Shenzhen made me familiar with web programming languages such as PHP and HTML. As an IT Technician responsible for servers in our group, I am well-versed in working with Linux systems, servers, and open-source code repositories. I believe my programming background positions me well to fulfill the job requirements.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+research coordinator
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Another role I have taken on is that of a research coordinator. Our lab was founded in 2017 with just two people, my PhD supervisor and me. Over the past five years, I have coordinated with other departments in our university, including finance, human resources, equipment division, and so on. I have also been responsible for facilitating cross-lab collaborations with other research groups, both nationally and internationally, including appling fundings jointly. I have prepared over 10 fund proposals from city to national levels. By the end of my contract, our lab had grown to include more than 50 members, granted over 10 million krona in funding, and built a computing cluster with 12 4-GPU servers. I believe my interdisciplinary background has allowed me to collaborate effectively with others and successfully address researchers' needs by providing technical solutions.
 
-Site-wide configuration
+Recent Project
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+A major challenge for high dynamic range (HDR) image reconstruction from multi-exposed low dynamic range (LDR) images, especially with dynamic scenes, is the extraction and merging of relevant contextual features in order to suppress any ghosting and blurring artifacts from moving objects. To tackle this, in this work we propose a novel
+network for HDR reconstruction with deep and rich feature extraction layers, including residual attention blocks with sequential channel and spatial attention. For the compression of the rich-features to the HDR domain, a residual feature distillation block (RFDB) based architecture is adopted. In contrast to earlier deep-learning methods for HDR, the above contributions shift focus from merging/compression to feature extraction, the added value of which we demonstrate with ablation experiments. We present qualitative and quantitative comparisons on public benchmark datasets, showing that our proposed method outperforms the state-of-the-art
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
 **Markdown generator**
 
