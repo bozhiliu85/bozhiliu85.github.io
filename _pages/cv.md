@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science  University of Nottingham, UK  2011/2018
+* Master in Management of IT  University of Nottingham, UK  2009/2010
+* Bacholor in Network Engineering  Nanjing University of Sci & Tech, China   2004/2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021: Visiting Researcher
+  * Department of IT, Uppsala University, Sweden
+  * Explore and develop high dynamic range (HDR) image reconstruction with the state of the art deep learning frameworks.
+  * HDRfeat: A Feature-RichNetwork forHighDynamicRangeImageReconstruction. 2023 Under review.
+  * Supervisor: Orcun Goksel
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2017: Associate Researcher & Project Coordinator
+  * Shenzhen University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -39,18 +40,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
