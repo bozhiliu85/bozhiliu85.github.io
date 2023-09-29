@@ -1,7 +1,7 @@
 ---
-title: "A classification method for estimating the illuminant of an image"
+title: "Tone-mapping-high-dynamic-range-images-based-on-region-adaptive-self-supervised-deep-learning"
 collection: conferences
-permalink: /publication/A-classification-method-for-estimating-the-illuminant-of-an-image
+permalink: /publication/Tone-mapping-high-dynamic-range-images-based-on-region-adaptive-self-supervised-deep-learning
 excerpt: 'This paper presents a region-adaptive self-supervised deep learning (RASSDL) technique for high dynamic range (HDR) image tone mapping. The RASSDL tone mapping operator (TMO) is a convolutional neural network (CNN) trained on local image regions that can seamlessly tone map images of arbitrary sizes. The training of RASSDL TMO is through the design of a self-supervising target that automatically adapts to the local image regions based on their information contents. The self-supervising target is designed to ensure the tone-mapped output achieves a balance between preserving the relative contrast of the original scene and the visibilities of the fine details to achieve faithful reproduction of the HDR scene. Distinguishing from many existing TMOs that require manual tuning of parameters, RASSDL is parameter-free and completely automatic. Experimental results demonstrate that RASSDL TMO can achieve state-of-the-art performance in terms of preserving overall contrasts, revealing fine details, and being free from visual artifacts.'
 date: 2022-03-01
 venue: 'Signal Processing: Image Communication'
