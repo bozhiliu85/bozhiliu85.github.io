@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! I am Bozhi Liu, a researcher with a focus on Machine learning based high dynamic range imaging technology and its applications. My goal is to create more realistic and controllable generated images through the use of these techniques. 
+Welcome to my personal homepage! I am Bozhi Liu, a researcher with a focus on machine learning based high dynamic range imaging technology and its applications. My goal is to create more realistic and controllable HDR images and videos through the use of these techniques. 
 
 I received my Ph.D. from the University of Nottingham in 2018, and my master’s from Nottingham as well in 2010, and bachelor’s degrees from Nanjing University of Science and Technology (Nanjing) in 2008, respectively. I was born in the beautiful city of Tianjin, China.
 
 About Me
 ======
-I am currently a Visiting Researcher at the Department of Information Technology at Uppsala University, where I have been exploring high dynamic range imaging technology. My academic journey has equipped me with in-depth knowledge of advanced techniques in image reconstruction, deep learning frameworks, and data analysis.
+Associate Researcher: I've spent the past six years honing my skills in both research and administration at Shenzhen University. My work encompassed a wide range of topics, from high dynamic range image and video enhancement to image quality assessment and super resolution. I've also been deeply involved in cross-lab collaborations, securing funding, and coordinating with various departments, making sure that the gears of our research machinery ran smoothly.
 
-Professional Experience
-======
-I have had the privilege of working as an Associate Researcher at Shenzhen University in China for over six years. During my time there, I focused on research related to high-quality image and video processing, utilizing cutting-edge AI and ML algorithms, including convolutional neural networks (CNN), recurrent neural networks (RNN), Support Vector Machines (SVM), and Random Forest. My proficiency extends to programming languages such as C++, Python, Matlab, and more.
+Visiting Researcher at Uppsala University: My current role as a Visiting Researcher at Uppsala University has provided me with a unique opportunity to delve into the world of deep learning technology applied to high dynamic image processing. I've had the privilege of working with Prof. Orcun Goksel at the Department of Information Technology, exploring new horizons in this exciting field.
 
-Project Coordination & Administration
+Research Interests
 ======
-As a Project Coordinator at Vista Lab, Shenzhen University, I played a pivotal role in expanding the lab's capabilities and securing substantial funding. I have experience in coordinating various departments, managing budgets, overseeing research communication, and even administering websites and servers. My ability to bridge technical and non-technical aspects has been crucial in my role.
+My academic journey has led me to a diverse range of research interests, including color constancy, high dynamic range image and videos, image quality assessment, and learning-based image & video processing algorithms. These areas continually fuel my drive for innovation and problem-solving.
 
 Contact Me
 ======
